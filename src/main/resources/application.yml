@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: PDFCombinator
+
+server:
+  port: 8080
+
+origin.folder: "src/samples"
+output.folder: "/Users/yin.lam.tze.ting/src/PDFBoxWriteReadPdfFile/src/Merged_final.pdf"
+keyword.searchFor: "pdf"
+
+
+
